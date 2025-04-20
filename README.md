@@ -1,2 +1,2 @@
-# Skilora
+# Skillut
 A Skill Swap Website
